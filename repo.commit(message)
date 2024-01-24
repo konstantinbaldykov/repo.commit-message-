@@ -1,0 +1,4 @@
+    repo.commit(message);
+                } else {
+                    std::cout << "Invalid commit command. Usage: commit <message>\n";
+                }
